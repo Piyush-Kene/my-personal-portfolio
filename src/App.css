@@ -1,0 +1,21 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+}
+
+/* body{
+  font-family: 'roboto',sans-serif;
+} */
+
+/* body{
+  font-family: 'doto';
+} */
+
+@font-face{
+  font-family: 'do';
+  src: url('.public/fonts/fonts.zip/Roboto-regulat.ttf'),
+  format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
